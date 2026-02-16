@@ -30,7 +30,7 @@ Automatiser la collecte, l'analyse et la visualisation de données concurrentiel
 ## 📦 Installation
 ```bash
 # Cloner le projet
-git clone https://github.com/TON_USERNAME/competitive-intelligence-dashboard.git
+git clone https://github.com/monkamnicole_-lab/competitive-intelligence-dashboard.git
 cd competitive-intelligence-dashboard
 
 # Créer un environnement virtuel
@@ -113,13 +113,8 @@ Le pipeline génère :
 ## 👤 Auteur
 
 **[Ton Nom]**  
-En recherche d'alternance Data/IA  
-📧 [ton.email@exemple.com]  
-💼 [LinkedIn](https://linkedin.com/in/ton-profil)
-
-## 📝 License
-
-MIT License - voir le fichier [LICENSE](LICENSE) pour plus de détails
+En recherche d'alternance   
+📧 [monkamnicole8@gmail.com]  
 
 ---
 
